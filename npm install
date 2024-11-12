@@ -1,0 +1,12 @@
+/**
+ * Возвращает результат объединения двух строк.
+ *
+ * @param {string} value1
+ * @param {string} value2
+ * @return {string}
+ *
+ * @example
+ * 'aa', 'bb' => 'aabb'
+ * 'aa'," => 'aa'
+ * ", 'bb' => 'bb'
+ */
